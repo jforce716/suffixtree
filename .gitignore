@@ -1,0 +1,5 @@
+build
+dist
+jgstrings.egg-info
+__pycache__
+.eggs
